@@ -12,10 +12,10 @@
 
     <properties>
 
-        <steamFolder>C:\Program Files (x86)\Steam\</steamFolder>
+        <steamFolder>C:/Program Files (x86)/Steam/</steamFolder>
 
-        <workshopFolder>${steamFolder}steamapps\workshop\content\646570\</workshopFolder>
-        <stsPath>${steamFolder}steamapps\common\SlayTheSpire\</stsPath>
+        <workshopFolder>${steamFolder}steamapps/workshop/content/646570/</workshopFolder>
+        <stsPath>${steamFolder}steamapps/common/SlayTheSpire/</stsPath>
         <SlayTheSpire.version>2.0</SlayTheSpire.version>
         <ModTheSpire.version>3.8.0</ModTheSpire.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -34,7 +34,7 @@
             <artifactId>ModTheSpire</artifactId>
             <version>${ModTheSpire.version}</version>
             <scope>system</scope>
-            <systemPath>${workshopFolder}1605060445\ModTheSpire.jar</systemPath>
+            <systemPath>${workshopFolder}1605060445/ModTheSpire.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>basemod</groupId>
