@@ -11,10 +11,8 @@
     </description>
 
     <properties>
-
            //Change below line to your Steam installation directory
         <steamFolder>C:/Program Files (x86)/Steam/</steamFolder>
-
         <workshopFolder>${steamFolder}steamapps/workshop/content/646570/</workshopFolder>
         <stsPath>${steamFolder}steamapps/common/SlayTheSpire/</stsPath>
         <SlayTheSpire.version>2.0</SlayTheSpire.version>
