@@ -222,7 +222,7 @@ public class downfallMod implements OnPlayerDamagedSubscriber, OnStartBattleSubs
     public static Settings.GameLanguage[] SupportedLanguages = {
             // Insert other languages here
             Settings.GameLanguage.ENG, Settings.GameLanguage.ZHS,
-            // Settings.GameLanguage.JPN
+            Settings.GameLanguage.JPN
             Settings.GameLanguage.KOR,
 //            Settings.GameLanguage.FRA,
 //            Settings.GameLanguage.ZHT,
